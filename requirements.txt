@@ -2,3 +2,4 @@ requests
 quotexapi
 ta
 pandas
+python-dotenv
