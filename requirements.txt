@@ -1,5 +1,4 @@
-requests
-quotexapi
+git+https://github.com/leganux/quotexapi.git
 ta
 pandas
 python-dotenv
